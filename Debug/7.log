@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kopego\source\repos\bsuir_labs\7\source.cpp(28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  7.vcxproj -> C:\Users\KopeGo\source\repos\bsuir_labs\Debug\7.exe
